@@ -11,9 +11,7 @@ if exist ..\..\..\maps\tags.dat (
 )
 
 :Label0
-START /WAIT commands\TTCC.exe -in commands\h3viewmodel.cmdX -out commands\h3viewmodel.cmds -dat ..\..\..\maps\tags.dat
-
-Type commands\h3viewmodel.cmds | TagTool.exe ../../../maps/tags.dat
+Type commands\h3viewmodel.cmdx | TagTool.exe ../../../maps/tags.dat
 
 ECHO Remastered Halo 3 h3viewmodel is now installed.
 ECHO #FuckFleur2017
