@@ -22,7 +22,6 @@ https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/ODST_Styled_SMGs_defaul
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/Reach_Styled_Frags/Reach_Styled_Frags.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/Reacthor/Reacthor.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/RedSword/RedSword.ini
-https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/ScoreboardAdjustments/ScoreboardAdjustments.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/Snowverhaul/SnowverhaulMap/SnowverhaulMAP.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/Snowverhaul/SnowverhaulTeleport/SnowverhaulTELEPORT.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/Snowverhaul/SnowverhaulVehicle/SnowverhaulVEHICLE.ini
