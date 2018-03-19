@@ -58,7 +58,6 @@ https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/reachMods/reachShotgun/
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/reachMods/reachSniper/reachSniper.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/reachMods/reachWeap/reachAR/reachAR.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/reachMods/reachWeap/reachDMR/reachDMR.ini
-https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/ShieldDownFix/ShieldDownFix.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/soundLagTest/soundLagTest.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/turf/turf.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/weaponOutlineRemover/weaponOutlineRemover.ini
