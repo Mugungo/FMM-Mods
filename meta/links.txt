@@ -13,6 +13,7 @@ https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/Snowverhaul/Snowverhaul
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/Snowverhaul/SnowverhaulTeleport/SnowverhaulTELEPORT.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/Snowverhaul/SnowverhaulVehicle/SnowverhaulVEHICLE.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/Snowverhaul/SnowverhaulWeapon/SnowverhaulWEAPON.ini
+https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3mods/h3armors/h3armors.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3mods/h3hud/Halo 3 HUD.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3mods/h3intro/h3intro.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3mods/h3sounds/h3shotgunSound/h3shotgunSound.ini
