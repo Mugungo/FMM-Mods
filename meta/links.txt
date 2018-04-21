@@ -1,1 +1,11 @@
-
+https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/DMRCrosshairFix/DMRCrosshairFix.ini
+https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3mods/h3weap/H3AR/H3AR.ini
+https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3mods/h3weap/H3BR/H3BR.ini
+https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3mods/h3weap/H3Bea/H3Bea.ini
+https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3mods/h3weap/H3Flak/H3Flak.ini
+https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3mods/h3weap/H3Mag/H3Mag.ini
+https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3mods/h3weap/H3RL/H3RL.ini
+https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3mods/h3weap/H3SMG/H3SMG.ini
+https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3mods/h3weap/H3SPL/H3SPL.ini
+https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3mods/h3weap/H3Sho/H3Sho.ini
+https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3mods/h3weap/H3Sni/H3Sni.ini
