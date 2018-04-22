@@ -157,15 +157,6 @@ SetField Nodes[4].InversePosition -0.087 -0.012 -0.05
 SetField Nodes[5].InversePosition -0.08 0 -0.05
 savechanges XXXX exit
 
-// Patch for Flatgrass
-dep remove 6E23 6E09 XXXX dep remove 6E23 6E08 
-
-edit 6E07 XXXX SetField rendermodel modeHRSN3d XXXX savechanges XXXX exitTo tags.dat
-
-edit 6E06 XXXX SetField FirstPerson[0].FirstPersonModel modeHRSNfp XXXX SetField FirstPerson[1].FirstPersonModel modeHRSNfp XXXX savechanges XXXX exitTo tags.dat
-
-// A few errors will pop above if you don't have Flatgrass mod. Ignore.
-
 dumplog reachSniper.log XXXX exit XXXX exit
 
 // END OF COMMANDS
