@@ -1,4 +1,5 @@
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/DMRCrosshairFix/DMRCrosshairFix.ini
+https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/Extra_Medal_Packs\Extra Medal Packs.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3mods/h3weap/H3AR/H3AR.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3mods/h3weap/H3BR/H3BR.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3mods/h3weap/H3Bea/H3Bea.ini
