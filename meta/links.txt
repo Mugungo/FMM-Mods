@@ -13,3 +13,5 @@ https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3mods/h3weap/H3Sni/H3S
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/h3mods/h3visors/h3visors_install.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/Minimal_Hud/Mhud.ini
 https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/snowhalla/Snowhalla.ini
+https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/Airglow/Airglow.ini
+https://raw.githubusercontent.com/Clef-0/FMM-Mods/master/turf/turf.ini
